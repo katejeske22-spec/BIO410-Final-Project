@@ -15,6 +15,7 @@ Include information about
 
 ## Results
 Here is the phylogenetic tree:
+
 ![alttext](Phylogenetic tree.jpeg)
 
 Explain
