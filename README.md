@@ -15,7 +15,7 @@ Include information about
 
 ## Results
 Here is the phylogenetic tree:
-![](Phylogenetic tree.jpeg)
+![alttext](Phylogenetic tree.jpeg)
 
 Explain
 - which samples are closely related to each other
