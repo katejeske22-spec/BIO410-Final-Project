@@ -1,6 +1,6 @@
 # BIO410-Final-Project
 ## Background
-The data consist of 6 samples from the organism _______. This organism is a ________, which ________ (citation)
+The data consist of 6 samples from the organism Zaire ebolavirus. This organism is a ________, which ________ (citation)
 
 ## Purpose
 The purpose of this project was to create a phylogenetic tree from 6 samples of _____ in order to determine the evolutionary relationship between the organisms. 
