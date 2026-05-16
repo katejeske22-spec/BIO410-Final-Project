@@ -18,7 +18,9 @@ allcontigs <- c()
 # This loop outputs a list, so we flatten the list
 allcontigs <- do.call(c, allcontigs)
 
-# There are some small fragments of genomes in the assmebly; we are only going to align the biggest parts (aka the ones that are bigger than 5 kbp; the genome itself is around 18 kbp).
+# There are some small fragments of genomes in the assmebly; 
+# we are only going to align the biggest parts (aka the ones that are bigger than 5 kbp; 
+# the genome itself is around 18 kbp).
 toalign <- allcontigs[which(nchar(allcontigs) > 5000)]
 names(toalign) <- 1:length(toalign)
 
