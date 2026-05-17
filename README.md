@@ -1,6 +1,6 @@
 # BIO410-Final-Project
 ## Background
-The data consist of 6 samples from the organism Zaire ebolavirus. This organism is a species known to cause ebola virus disease in humans - and other primates - which is a filovirus causing a severe and often lethal viral haemorrhagic fever (to, 2002)
+The data consist of 6 samples from the organism Zaire ebolavirus. This organism is a species known to cause ebola virus disease in humans - and other primates - which is a filovirus causing a severe and often lethal viral haemorrhagic fever (to, 2002).
 
 ## Purpose
 The purpose of this project was to create a phylogenetic tree from 6 samples of the zaire ebolavirus in order to determine the evolutionary relationship between the organisms. 
