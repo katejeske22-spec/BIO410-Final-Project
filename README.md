@@ -6,10 +6,9 @@ The data consist of 6 samples from the organism Zaire ebolavirus. This organism 
 The purpose of this project was to create a phylogenetic tree from 6 samples of the zaire ebolavirus in order to determine the evolutionary relationship between the organisms. 
 
 ## Methods
-- We used next generation sequencing to sequence 6 samples of the Zaire ebolavirus:
-    - (https://github.com/katejeske22-spec/BIO410-Final-Project/blob/b086803b7e10f1ec42d1e7609e32598812d36b96/Sequences.html.html)
+- We used next generation sequencing to sequence 6 samples of the [Zaire ebolavirus](https://github.com/katejeske22-spec/BIO410-Final-Project/blob/b086803b7e10f1ec42d1e7609e32598812d36b96/Sequences.html.html)
   
-- We used MEGAHIT to assemble our sequences (https://github.com/voutcn/MEGAHIT)
+- We used [MEGAHIT](https://github.com/voutcn/MEGAHIT) to assemble our sequences
 
 - Ran the following [R script](https://github.com/katejeske22-spec/BIO410-Final-Project/blob/9376bae98446ebfecb0ed061c220b8c1b9242272/Final%20project%20R%20script.R)
   
@@ -17,7 +16,7 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
   
 - Using the DECIPHER package, we used the ML method to create a [phylogenetic tree](https://github.com/katejeske22-spec/BIO410-Final-Project/blob/1f3d8d0e64e95e646b30e013799ae534d03653fd/Phylogenetic%20tree.jpeg) in Rstudio
 
-- The assembled reads are in t(n)_out folders and the raw sequencing read are in the folder titled [kate]()
+- The assembled reads are in t(n)_out folders ([t1](),[t2](),[t3](),[t4](),[t5](),[t6]()) and the raw sequencing read are in the folder titled [kate](https://github.com/katejeske22-spec/BIO410-Final-Project/tree/77fd57a62fed0457309e1b0d42debe8063f6a490/kate)
 
 ## Results
 Here is the phylogenetic tree: (the picture is not uploading - but I did link it in the above section)
