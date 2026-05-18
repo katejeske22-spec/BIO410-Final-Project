@@ -16,7 +16,7 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
   
 - Using the DECIPHER package, we used the ML method to create a [phylogenetic tree](https://github.com/katejeske22-spec/BIO410-Final-Project/blob/1f3d8d0e64e95e646b30e013799ae534d03653fd/Phylogenetic%20tree.jpeg) in Rstudio
 
-- The assembled reads are in t(n)_out folders ([t1](),[t2](),[t3](),[t4](),[t5](),[t6]()) and the raw sequencing read are in the folder titled [kate](https://github.com/katejeske22-spec/BIO410-Final-Project/tree/77fd57a62fed0457309e1b0d42debe8063f6a490/kate)
+- The assembled reads are in t(n)_out folders ([t1](https://github.com/katejeske22-spec/BIO410-Final-Project/tree/e59c3c9989463db94497f89f90a2a47a667d1169/t1_out),[t2](),[t3](),[t4](),[t5](),[t6]()) and the raw sequencing read are in the folder titled [kate](https://github.com/katejeske22-spec/BIO410-Final-Project/tree/77fd57a62fed0457309e1b0d42debe8063f6a490/kate)
 
 ## Results
 Here is the phylogenetic tree: (the picture is not uploading - but I did link it in the above section)
