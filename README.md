@@ -6,8 +6,8 @@ The data consist of 6 samples from the organism Zaire ebolavirus. This organism 
 The purpose of this project was to create a phylogenetic tree from 6 samples of the zaire ebolavirus in order to determine the evolutionary relationship between the organisms. 
 
 ## Methods
-- We used next generation sequencing to sequence 6 samples of the [Zaire ebolavirus]:
-    - ()
+- We used next generation sequencing to sequence 6 samples of the Zaire ebolavirus:
+    - (https://github.com/katejeske22-spec/BIO410-Final-Project/blob/b086803b7e10f1ec42d1e7609e32598812d36b96/Sequences.html.html)
   
 - We used MEGAHIT to assemble our sequences (https://github.com/voutcn/MEGAHIT)
 
@@ -15,7 +15,7 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
   
 - We aligned the raw sequence data using the package DECIPHER in Rstudio
   
-- Using the DECIPHER package, we used the ML method to create a phylogenetic tree in Rstudio
+- Using the DECIPHER package, we used the ML method to create a [phylogenetic tree]() in Rstudio
 
 
   
