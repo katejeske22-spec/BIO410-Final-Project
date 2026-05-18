@@ -15,14 +15,12 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
   
 - We aligned the raw sequence data using the package DECIPHER in Rstudio
   
-- Using the DECIPHER package, we used the ML method to create a [phylogenetic tree]() in Rstudio
+- Using the DECIPHER package, we used the ML method to create a [phylogenetic tree](https://github.com/katejeske22-spec/BIO410-Final-Project/blob/1f3d8d0e64e95e646b30e013799ae534d03653fd/Phylogenetic%20tree.jpeg) in Rstudio
 
-
-  
-- For each source of data, state which files/folders in the repository correspond to those data (so for example, the assembled reads are in ______ [same folder] and the raw sequencing read are in _____ [same folder] (this is the one named with your name
+- The assembled reads are in t(n)_out folders and the raw sequencing read are in the folder titled [kate]()
 
 ## Results
-Here is the phylogenetic tree: (the picture is not uploading)
+Here is the phylogenetic tree: (the picture is not uploading - but I did link it in the above section)
 ![](Phylogenetic tree.jpeg)
 
 Samples 5 and 3 are closest to each other, and 6 and 4 are closest to each other. In general, samples 2-6 are all close to each other while sample 1 is very far from them all. All 6 of these samples seem to have come from one organism at one point before it split where 1 may have continued on the most similar to that ancestor organism, while 2-6 arose after the new organism had a few more changes to the organism that split from the most ancestral organism.
