@@ -9,6 +9,8 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
 - We used next generation sequencing to sequence 6 samples of the Zaire ebolavirus
   
 - We used MEGAHIT to assemble our sequences (https://github.com/voutcn/MEGAHIT)
+
+- Ran the following [R script](
   
 - We aligned the sequences using the package DECIPHER in Rstudio
   
