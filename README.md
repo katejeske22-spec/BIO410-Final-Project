@@ -10,11 +10,12 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
   
 - We used MEGAHIT to assemble our sequences (https://github.com/voutcn/MEGAHIT)
 
-- Ran the following [R script](
+- Ran the following [R script](https://github.com/katejeske22-spec/BIO410-Final-Project/blob/9376bae98446ebfecb0ed061c220b8c1b9242272/Final%20project%20R%20script.R)
   
-- We aligned the sequences using the package DECIPHER in Rstudio
+- We aligned the raw sequence data using the package DECIPHER in Rstudio
   
-- Using the DECIPHER, we used the ML method to create a phylogenetic tree in Rstudio
+- Using the DECIPHER package, we used the ML method to create a phylogenetic tree in Rstudio with the code below:
+- 
 
 
   
