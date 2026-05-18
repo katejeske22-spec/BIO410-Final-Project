@@ -22,7 +22,7 @@ The purpose of this project was to create a phylogenetic tree from 6 samples of 
 Here is the phylogenetic tree: (the picture is not uploading - but I did link it in the above section)
 ![](Phylogenetic tree.jpeg)
 
-Samples 5 and 3 are closest to each other, and 6 and 4 are closest to each other. In general, samples 2-6 are all close to each other while sample 1 is very far from them all. All 6 of these samples seem to have come from one organism at one point before it split where 1 may have continued on the most similar to that ancestor organism, while 2-6 arose after the new organism had a few more changes to the organism that split from the most ancestral organism.
+Samples 5 and 3 are closest to each other, and 6 and 4 are closest to each other. In general, samples 2-6 are all close to each other while sample 1 is very far from them all. All 6 of these samples seem to have come from one organism at one point before it split, where 1 may have continued on to be the most similar to that original ancestor organism, while 2-6 arose after the new organism had a few more mutations and continued to evolve producing 5 different, but modt likely very similar organisms.
 
 ## References
 to, C. (2002, June 17). species within the genus Ebolavirus. Wikipedia.Org; Wikimedia Foundation, Inc. https://en.wikipedia.org/wiki/Zaire_ebolavirus
